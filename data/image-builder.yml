@@ -109,3 +109,15 @@ image builder:
     "Quickstart - Button: Build an Image with Custom Content - Button: Let Red Hat contact you":
       selectors:
         - '{} #qs-ib-custom-content-contact'
+    "Quickstart - Button: Get started with blueprints":
+      selectors:
+        - '{} button:contains("Get started with blueprints")'
+    "Quickstart - Button: Get started with blueprints":
+      selectors:
+        - '{} button:contains("Not now")'
+    "Quickstart - Button: Get started with blueprints":
+      selectors:
+        - '{} button:contains("Don't show me this again")'
+    "Quickstart - Button: Get started with blueprints":
+      selectors:
+        - '{} button.pf-v5-c-button'
